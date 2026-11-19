@@ -1,0 +1,5 @@
+build*/
+.vs/
+*.user
+vcpkg_installed/
+*.db
